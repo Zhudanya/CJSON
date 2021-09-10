@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Taaa/Desktop/cJSON/cJson.h
+
+C:/Users/Taaa/Desktop/cJSON/example.c
+stdio.h
+-
+cJSON.h
+C:/Users/Taaa/Desktop/cJSON/cJson.h
+

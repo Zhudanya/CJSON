@@ -1,0 +1,3 @@
+C:/Users/Taaa/Desktop/cJSON/build/CMakeFiles/my_cmake_json.dir
+C:/Users/Taaa/Desktop/cJSON/build/CMakeFiles/edit_cache.dir
+C:/Users/Taaa/Desktop/cJSON/build/CMakeFiles/rebuild_cache.dir
