@@ -1,3 +1,3 @@
 # CJSON
  - My CJSON project 
- - If you run the project using vscode, you need to modify the configuration file, if not, delete the configuration file and run again.
+ - 我的CJSON项目•如果使用vscode运行项目，需要修改配置文件，如果不需要修改，请删除配置文件后重新运行。
